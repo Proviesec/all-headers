@@ -1,3 +1,4 @@
 forwarded-for-ip
 origin
 referrer
+host 
